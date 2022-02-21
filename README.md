@@ -1,6 +1,11 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Leigh+Ola;I+create+software+solutions.)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leigh-Ola)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23999999&aColor=%23bbdb51)
 
 <!--
 **Leigh-Ola/Leigh-Ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
