@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Leigh+Ola;I+create+software+solutions.)](https://git.io/typing-svg)
 
+![](https://gitwar.herokuapp.com/badge?username=Leigh-Ola)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leigh-Ola)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Markdown -->
@@ -20,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
