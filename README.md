@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Leigh+Ola;I+create+software+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Leigh+Ola;I+create+amazing+software.)](https://git.io/typing-svg)
+#### \#JavaScript \#Python \#Solidity
 
 ![](https://gitwar.herokuapp.com/badge?username=Leigh-Ola)
 
