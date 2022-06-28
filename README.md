@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leigh-Ola&count_private=true&show_icons=true&theme=radical&hide=prs,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### I’m currently working on an African-made solution to sending and receiving fiat and cryptocurrencies across different countries
+### 🔭 I’m currently working on an African-made solution to sending and receiving fiat and cryptocurrencies across different countries
 
 
 > Jokes Card
