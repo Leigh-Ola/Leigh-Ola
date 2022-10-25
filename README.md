@@ -39,6 +39,10 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40"/>
 </a> 
+<a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" height="40" width="40"/>
+</a>
+          
 </p>
 <!-- > Jokes Card
 
