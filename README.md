@@ -1,7 +1,12 @@
 ### Hi there. 👋
-<img align="right" width="30%" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Leigh+Ola;I+create+amazing+software.)](https://git.io/typing-svg)
+
+<hr/>
+<div style="width:100%; display: block;">
+<img align="center" width="50%" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif" />
+</div>
+<hr/>
+
 ### 🔭 I’m currently working on an African-made solution to sending and receiving fiat and cryptocurrencies across different countries
 #### \#JavaScript \#Python \#Solidity
 
@@ -23,8 +28,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <br /> <br />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
