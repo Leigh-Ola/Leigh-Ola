@@ -10,6 +10,8 @@
 ### 🔭 I’m currently working on an African-made solution to sending and receiving fiat and cryptocurrencies across different countries
 #### \#JavaScript \#Python \#Solidity
 
+![](https://github-profile-trophy.vercel.app/?username=leigh-ola&no-frame=true&theme=radical&rank=-C)
+
 ![](https://gitwar.herokuapp.com/badge?username=Leigh-Ola)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leigh-Ola&count_private=true&show_icons=true&theme=radical&hide=prs,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
