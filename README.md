@@ -56,6 +56,12 @@
 <a href="https://docs.soliditylang.org" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" height="40" width="40"/>
 </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="solidity" height="40" width="40"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">  &nbsp; &nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="solidity" height="40" width="40"/>
+</a>
 
 <br />
 &nbsp; &nbsp; &nbsp; &nbsp; 
